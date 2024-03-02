@@ -1,0 +1,66 @@
+{
+
+    "parks": [
+        {
+        "name":"Queensbridge Park",
+        "image":"https://static.nycgovparks.org/images/photo_gallery/full_size/24690.jpg",
+        "location":"Queensboro Bridge, 41 Rd., 40 Ave. bet. The East River, Vernon Blvd., and 21 St.",
+        "link":"https://www.nycgovparks.org/parks/queensbridgepark/"
+        },
+        {
+        "name":"Astoria Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q004/images/featured/22993.jpg",
+        "location":"19 St. bet. Astoria Park S. and Ditmars Blvd.",
+        "link":"https://www.nycgovparks.org/parks/astoria-park/"
+        },
+        {
+        "name":"Travers Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q303/images/featured/18244.jpg",
+        "location":"34 Ave. bet. 77 St. and 78 St.",
+        "link":"https://www.nycgovparks.org/parks/travers-park"
+        },
+        {
+        "name":"Juniper Valley Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q102/images/featured/24686.jpg",
+        "location":"Juniper Blvd. bet. Lutheran Ave., 71 St. and Dry Harbor Rd.",
+        "link":"https://www.nycgovparks.org/parks/juniper-valley-park"
+        },
+        {
+        "name":"Forest Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q015/images/featured/24540.jpg",
+        "location":"Myrtle Ave, Union Tpke, Park Lane S",
+        "link":"https://www.nycgovparks.org/parks/Q015/"
+        },
+        {
+        "name":"Flushing Meadows Corona Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q099/images/featured/25085.jpg",
+        "location":"Grand Central Pkwy, Van Wyck Exwy",
+        "link":"https://www.nycgovparks.org/parks/flushing-meadows-corona-park/"
+        },
+        {
+        "name":"Maple Grove Park",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipN1nuGnH5glIZjuQLKxS4o0-8CKn5zwjDQRhY1_=w408-h306-k-no",
+        "location":"Hoover Ave. bet. Queens Blvd. and 132 St",
+        "link":"https://www.nycgovparks.org/parks/maple-grove-park/"
+        },
+        {
+        "name":"Baisley Pond Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q005/images/featured/10024.jpg",
+        "location":"N. Conduit Ave., 116 Ave. bet. 150 St., Suptin Blvd., and Baisley Blvd. S.",
+        "link":"https://www.nycgovparks.org/parks/baisley-pond-park"
+        },
+        {
+        "name":"Sunnyside Gardens Park",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipM7NY_-4rPEbzJDY4d1B8L4shZnmDQRdVY5aiCx=w408-h544-k-no",
+        "location":"48-21 39th Ave, Sunnyside, NY 11104",
+        "link":"https://sunnysidegardenspark.org/"
+        },
+        {
+        "name":"Kissena Park",
+        "image":"https://static.nycgovparks.org/images/parks/Q024/images/featured/25535.jpg",
+        "location":"Underhill, Oak, Rose, Booth Memorial Aves, Kissena Blvd, Fresh Meadow Ln",
+        "link":"https://www.nycgovparks.org/parks/kissena-park/"
+        }
+    ]
+
+}
