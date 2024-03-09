@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board - Parks in Queens*
 
 Submitted by: **Samin Anan**
 
-This web app: **Parks in Queens displays information about many parks in Queens that you can visit!**
+This web app: **Parks in Queens displays information about the many parks in Queens that you can visit!**
 
 Time spent: **3** hours spent in total
 
@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="" title="Parks in Queens features" width='400px' alt='Parks in Queens features' />
+<img src="https://github.com/Samin-A1/web102/blob/083155fbbb691e63da27dfe9926ea4aa002772dd/Community_Board/src/assets/ParksInQueens.gif" title="Parks in Queens features" width='400px' alt='Parks in Queens features' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
