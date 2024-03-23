@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.seen-list, .ban-list {
+  margin-top: 11%;
+}
+
+
+button {
+  margin: 5px;
+}
+
+.image-container {
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+  display:inline-block;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image {
+  height: 300px;
+}
+
